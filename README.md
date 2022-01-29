@@ -18,4 +18,4 @@ SpautiNoFay takes YouTube music links, download the audio and convert them to mp
 
 If you want to improve the project, you are free to do it, I will be happy to accept your PRs.
 
-The project has been initialy coded with all the variable's names in French so I may forgot to change some.
+The project has been initialy coded with all the variable's names in French so I may forgot to change some. 
